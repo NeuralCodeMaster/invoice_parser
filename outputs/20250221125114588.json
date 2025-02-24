@@ -1,0 +1,75 @@
+{
+    "invoice_number": "INV-62340",
+    "supplier_info": null,
+    "po_numbers": [
+        "135298"
+    ],
+    "products": [
+        {
+            "product_code": "PRD-7338-U",
+            "quantity": 18,
+            "unit_price": 18.08,
+            "total_price": 325.44
+        },
+        {
+            "product_code": "PRD-6726-P",
+            "quantity": 42,
+            "unit_price": 52.86,
+            "total_price": 2220.12
+        },
+        {
+            "product_code": "PRD-9400-A",
+            "quantity": 93,
+            "unit_price": 38.06,
+            "total_price": 3539.58
+        },
+        {
+            "product_code": "PRD-1824-F",
+            "quantity": 84,
+            "unit_price": 287.45,
+            "total_price": 24145.8
+        },
+        {
+            "product_code": "PRD-5444-V",
+            "quantity": 48,
+            "unit_price": 602.36,
+            "total_price": 28913.28
+        },
+        {
+            "product_code": "PRD-5819-G",
+            "quantity": 92,
+            "unit_price": 388.45,
+            "total_price": 35737.4
+        },
+        {
+            "product_code": "PRD-3933-A",
+            "quantity": 10,
+            "unit_price": 577.64,
+            "total_price": 5776.4
+        },
+        {
+            "product_code": "PRD-8662-R",
+            "quantity": 21,
+            "unit_price": 579.62,
+            "total_price": 12172.02
+        }
+    ],
+    "services": [],
+    "consistency_report": {
+        "product_inconsistencies": {
+            "price_mismatches": [],
+            "total_inconsistencies": 0
+        },
+        "service_inconsistencies": {
+            "price_mismatches": [],
+            "total_inconsistencies": 0
+        },
+        "po_inconsistencies": {
+            "missing_in_extracted": [],
+            "unused_in_products": [
+                "135298"
+            ],
+            "total_inconsistencies": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "invoice_number": "INV-43071",
+    "supplier_info": null,
+    "po_numbers": [],
+    "products": [],
+    "services": [
+        {
+            "service_name": "GLOBAL TECH SOLUTIONS LTD. 123 Innovation Street Tech District London, UK ECIA 1BB Tel: +44 20 7123 4567 VAT: GB123456789 INVOICE Invoice Number: INV-43071 Invoice Date: 20/02/2025 Due Date: 22/03/2025 BILL TO: Tech Innovations Inc; Attn: Procurement Department 789 Silicon Avenue San Francisco, CA 94105 USA VAT: US987654321 DESCRIPTION Software Development Services Frontend Development",
+            "hours": 80,
+            "rate_per_hour": 145.0,
+            "amount": 11600.0
+        },
+        {
+            "service_name": "Security Audit and Implementation",
+            "hours": 35,
+            "rate_per_hour": 195.0,
+            "amount": 6825.0
+        }
+    ],
+    "consistency_report": {
+        "product_inconsistencies": {
+            "price_mismatches": [],
+            "total_inconsistencies": 0
+        },
+        "service_inconsistencies": {
+            "price_mismatches": [],
+            "total_inconsistencies": 0
+        },
+        "po_inconsistencies": {
+            "missing_in_extracted": [],
+            "unused_in_products": [],
+            "total_inconsistencies": 0
+        }
+    }
+}

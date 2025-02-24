@@ -1,0 +1,382 @@
+{
+    "invoice_number": "INV",
+    "supplier_info": null,
+    "po_numbers": [
+        "526365",
+        "526365",
+        "756014",
+        "756014",
+        "842742",
+        "526365",
+        "360206"
+    ],
+    "products": [
+        {
+            "product_code": "PRD-5976",
+            "description": "Power Supply",
+            "quantity": 39,
+            "unit_price": 479.1,
+            "total_price": 18684.9
+        },
+        {
+            "product_code": "PRD-8211",
+            "description": "Motherboard",
+            "quantity": 32,
+            "unit_price": 107.79,
+            "total_price": 3449.28
+        },
+        {
+            "product_code": "PRD-9055",
+            "description": "Microprocessor",
+            "quantity": 28,
+            "unit_price": 128.72,
+            "total_price": 3604.16
+        },
+        {
+            "product_code": "PRD-5064",
+            "description": "SSD Drive",
+            "quantity": 34,
+            "unit_price": 234.81,
+            "total_price": 7983.54
+        },
+        {
+            "product_code": "PRD-6326",
+            "description": "USB Controller",
+            "quantity": 29,
+            "unit_price": 131.23,
+            "total_price": 3805.67
+        },
+        {
+            "product_code": "PRD-8572",
+            "description": "USB Controller",
+            "quantity": 4,
+            "unit_price": 108.52,
+            "total_price": 434.08
+        },
+        {
+            "product_code": "PRD-8419",
+            "description": "USB Controller",
+            "quantity": 7,
+            "unit_price": 102.66,
+            "total_price": 718.62
+        },
+        {
+            "product_code": "PRD-2738",
+            "description": "Network Card",
+            "quantity": 24,
+            "unit_price": 285.41,
+            "total_price": 6849.84
+        },
+        {
+            "product_code": "PRD-1771",
+            "description": "Cooling Fan",
+            "quantity": 15,
+            "unit_price": 441.63,
+            "total_price": 6624.45
+        },
+        {
+            "product_code": "PRD-1238",
+            "description": "Graphics Card",
+            "quantity": 9,
+            "unit_price": 324.29,
+            "total_price": 2918.61
+        },
+        {
+            "product_code": "PRD-2225",
+            "description": "Graphics Card",
+            "quantity": 24,
+            "unit_price": 262.26,
+            "total_price": 6294.24
+        },
+        {
+            "product_code": "PRD-6208",
+            "description": "USB Controller",
+            "quantity": 3,
+            "unit_price": 160.93,
+            "total_price": 482.79
+        },
+        {
+            "product_code": "PRD-5513",
+            "description": "Microprocessor",
+            "quantity": 45,
+            "unit_price": 428.3,
+            "total_price": 19273.5
+        },
+        {
+            "product_code": "PRD-4588",
+            "description": "Memory Module",
+            "quantity": 39,
+            "unit_price": 205.12,
+            "total_price": 7999.68
+        },
+        {
+            "product_code": "PRD-7942",
+            "description": "Power Supply",
+            "quantity": 19,
+            "unit_price": 48.05,
+            "total_price": 912.95
+        },
+        {
+            "product_code": "PRD-9459",
+            "description": "Cooling Fan",
+            "quantity": 16,
+            "unit_price": 336.13,
+            "total_price": 5378.08
+        },
+        {
+            "product_code": "PRD-8913",
+            "description": "Network Card",
+            "quantity": 22,
+            "unit_price": 489.96,
+            "total_price": 10779.12
+        },
+        {
+            "product_code": "PRD-6575",
+            "description": "USB Controller",
+            "quantity": 9,
+            "unit_price": 134.91,
+            "total_price": 1214.19
+        },
+        {
+            "product_code": "PRD-5309",
+            "description": "Memory Module",
+            "quantity": 41,
+            "unit_price": 152.23,
+            "total_price": 6241.43
+        },
+        {
+            "product_code": "PRD-2463",
+            "description": "Motherboard",
+            "quantity": 48,
+            "unit_price": 155.39,
+            "total_price": 7458.72
+        },
+        {
+            "product_code": "PRD-4967",
+            "description": "Power Supply",
+            "quantity": 19,
+            "unit_price": 268.47,
+            "total_price": 5100.93
+        },
+        {
+            "product_code": "PRD-1769",
+            "description": "Motherboard",
+            "quantity": 20,
+            "unit_price": 113.63,
+            "total_price": 2272.6
+        },
+        {
+            "product_code": "PRD-2649",
+            "description": "Memory Module",
+            "quantity": 14,
+            "unit_price": 459.39,
+            "total_price": 6431.46
+        },
+        {
+            "product_code": "PRD-4113",
+            "description": "Microprocessor",
+            "quantity": 19,
+            "unit_price": 56.26,
+            "total_price": 1068.94
+        },
+        {
+            "product_code": "PRD-4823",
+            "description": "USB Controller",
+            "quantity": 26,
+            "unit_price": 310.99,
+            "total_price": 8085.74
+        },
+        {
+            "product_code": "PRD-8435",
+            "description": "Power Supply",
+            "quantity": 41,
+            "unit_price": 312.75,
+            "total_price": 12822.75
+        },
+        {
+            "product_code": "PRD-9612",
+            "description": "Microprocessor",
+            "quantity": 23,
+            "unit_price": 301.65,
+            "total_price": 6937.95
+        },
+        {
+            "product_code": "PRD-3310",
+            "description": "Microprocessor",
+            "quantity": 37,
+            "unit_price": 31.8,
+            "total_price": 1176.6
+        },
+        {
+            "product_code": "PRD-7041",
+            "description": "Memory Module",
+            "quantity": 47,
+            "unit_price": 402.38,
+            "total_price": 18911.86
+        },
+        {
+            "product_code": "PRD-1167",
+            "description": "Network Card",
+            "quantity": 36,
+            "unit_price": 172.19,
+            "total_price": 6198.84
+        },
+        {
+            "product_code": "PRD-1991",
+            "description": "Memory Module",
+            "quantity": 30,
+            "unit_price": 287.34,
+            "total_price": 8620.2
+        },
+        {
+            "product_code": "PRD-7450",
+            "description": "Memory  Module",
+            "quantity": 46,
+            "unit_price": 200.1,
+            "total_price": 9204.6
+        },
+        {
+            "product_code": "PRD-8062",
+            "description": "Graphics Card",
+            "quantity": 10,
+            "unit_price": 150.36,
+            "total_price": 1503.6
+        },
+        {
+            "product_code": "PRD-3574",
+            "description": "Cooling Fan",
+            "quantity": 49,
+            "unit_price": 365.46,
+            "total_price": 17907.54
+        },
+        {
+            "product_code": "PRD-3154",
+            "description": "Micropro cessor",
+            "quantity": 26,
+            "unit_price": 247.35,
+            "total_price": 6431.1
+        },
+        {
+            "product_code": "PRD-5950",
+            "description": "Cooling Fan",
+            "quantity": 33,
+            "unit_price": 395.16,
+            "total_price": 13040.28
+        },
+        {
+            "product_code": "PRD-8988",
+            "description": "SSD Drive",
+            "quantity": 48,
+            "unit_price": 411.78,
+            "total_price": 19765.44
+        },
+        {
+            "product_code": "PRD-9909",
+            "description": "HDMI Cable",
+            "quantity": 13,
+            "unit_price": 317.08,
+            "total_price": 4122.04
+        },
+        {
+            "product_code": "PRD-4267",
+            "description": "HDMI Cable",
+            "quantity": 48,
+            "unit_price": 349.07,
+            "total_price": 16755.36
+        },
+        {
+            "product_code": "PRD-7856",
+            "description": "Power Supply",
+            "quantity": 5,
+            "unit_price": 348.2,
+            "total_price": 1741.0
+        },
+        {
+            "product_code": "PRD-4683",
+            "description": "Power Supply",
+            "quantity": 29,
+            "unit_price": 268.37,
+            "total_price": 7782.73
+        },
+        {
+            "product_code": "PRD-7453",
+            "description": "HDMI Cable",
+            "quantity": 22,
+            "unit_price": 242.68,
+            "total_price": 5338.96
+        },
+        {
+            "product_code": "PRD-9473",
+            "description": "Microprocessor",
+            "quantity": 28,
+            "unit_price": 217.33,
+            "total_price": 6085.24
+        },
+        {
+            "product_code": "PRD-7092",
+            "description": "SSD Drive",
+            "quantity": 13,
+            "unit_price": 123.21,
+            "total_price": 1601.73
+        },
+        {
+            "product_code": "PRD-5621",
+            "description": "Graphics Card",
+            "quantity": 1,
+            "unit_price": 429.35,
+            "total_price": 429.35
+        },
+        {
+            "product_code": "PRD-2818",
+            "description": "Graphics Card",
+            "quantity": 36,
+            "unit_price": 123.4,
+            "total_price": 4442.4
+        },
+        {
+            "product_code": "PRD-3978",
+            "description": "Cooling Fan",
+            "quantity": 49,
+            "unit_price": 281.1,
+            "total_price": 13773.9
+        },
+        {
+            "product_code": "PRD-2599",
+            "description": "USB Controller",
+            "quantity": 37,
+            "unit_price": 58.92,
+            "total_price": 2180.04
+        },
+        {
+            "product_code": "PRD-7695",
+            "description": "Microprocessor",
+            "quantity": 31,
+            "unit_price": 431.01,
+            "total_price": 13361.31
+        }
+    ],
+    "services": [],
+    "consistency_report": {
+        "product_inconsistencies": {
+            "price_mismatches": [],
+            "total_inconsistencies": 0
+        },
+        "service_inconsistencies": {
+            "price_mismatches": [],
+            "total_inconsistencies": 0
+        },
+        "po_inconsistencies": {
+            "missing_in_extracted": [],
+            "unused_in_products": [
+                "526365",
+                "526365",
+                "756014",
+                "756014",
+                "842742",
+                "526365",
+                "360206"
+            ],
+            "total_inconsistencies": 7
+        }
+    }
+}
