@@ -21,13 +21,6 @@ pip install opencv-python numpy PyPDF2 easyocr pdf2image tqdm camelot-py
 ## Usage
 ### 1. Add PDF files
 Place your PDF files inside the `data/` directory and update the `pdf_files` list in the script:
-```python
-pdf_files = [
-    "data/20250221125114588.pdf",
-    "data/20250221092842541.pdf",
-    "data/Invaoice_2.pdf"
-]
-```
 
 ### 2. Run the script
 Execute the script with:
